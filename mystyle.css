@@ -115,7 +115,7 @@ header .fa-bars{
 }
 
 .home-container{
-    background:url(../website/home.jpg) no-repeat;
+    background:url(home.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
