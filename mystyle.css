@@ -68,7 +68,7 @@ header .flex{
 }
 
 header .logo{
-    background-image: url("../website/logo.png");
+    background-image: url("logo.png");
     background-size: contain;
     background-repeat: no-repeat;
     width: 300px;
